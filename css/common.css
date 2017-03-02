@@ -1,0 +1,42 @@
+*{
+    margin:0;
+    padding:0;
+
+}
+img,input{
+    border:0;
+}
+body{
+    color:#000;
+    font-family:"ºÚÌå";
+    font-size:12px;
+    background:#fff;
+}
+.clearfix:after{
+    content:"";
+    height:0;
+    line-height:0;
+    visibility:hidden;
+    display:block;
+    clear:both;
+}
+.clearfix{
+    zoom:1;
+}
+
+.fl{
+    float:left;
+
+}
+.fr{
+    float:right;
+}
+a{
+    text-decoration:none;
+}
+a:hover{
+    color:#3fcab8;
+}
+li{
+    list-style:none;
+}
